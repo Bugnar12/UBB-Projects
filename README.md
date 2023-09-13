@@ -42,5 +42,10 @@ All the university work I have done, including homework and personal work.
           Data structures and Algorithms:green_apple:
         </a>
       </li>
+      <li>
+        <a href="https://github.com/Bugnar12/OS">
+          Operating Systems:gem:
+        </a>
+      </li>
     </ul>
   </ul>
