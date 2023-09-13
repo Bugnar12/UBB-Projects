@@ -26,11 +26,10 @@ All the university work I have done, including homework and personal work.
       </a>
     </li>
   </ul>
-  <ul>
+  </li>
+</ul>
+<ul>
     <li>
       :file_folder: Semester 2
     </li>
   </ul>
-    
-  </li>
-</ul>
