@@ -31,5 +31,11 @@ All the university work I have done, including homework and personal work.
 <ul>
     <li>
       :file_folder: Semester 2
-    </li>
+    <ul>
+      <li>
+        <a href="https://github.com/Bugnar12/Graph-Algorithms">
+          Graph Algorithms:zzz:
+        </a>
+      </li>
+    </ul>
   </ul>
