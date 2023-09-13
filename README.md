@@ -37,5 +37,10 @@ All the university work I have done, including homework and personal work.
           Graph Algorithms:zzz:
         </a>
       </li>
+      <li>
+        <a href="https://github.com/Bugnar12/DSA">
+          Data structures and Algorithms:green_apple:
+        </a>
+      </li>
     </ul>
   </ul>
