@@ -15,7 +15,10 @@ All the university work I have done, including homework and personal work.
       </a>
     </li>
     <li>
-      
+      Algebra:gift:
+    </li>
+    <li>
+      Computational Logic:unamused:
     </li>
   </ul>
     
