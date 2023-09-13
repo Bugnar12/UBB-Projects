@@ -20,6 +20,16 @@ All the university work I have done, including homework and personal work.
     <li>
       Computational Logic:unamused:
     </li>
+    <li>
+      <a href="https://github.com/Bugnar12/FP-UBB">
+        Fundamentals of Programming:trident:
+      </a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      :file_folder: Semester 2
+    </li>
   </ul>
     
   </li>
