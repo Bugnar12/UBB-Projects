@@ -47,5 +47,13 @@ All the university work I have done, including homework and personal work.
           Operating Systems:gem:
         </a>
       </li>
+      <li>
+        Geometry:triangular_ruler:
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/DS">
+          Dynamical Systems:seedling:
+        </a>
+      </li>
     </ul>
   </ul>
