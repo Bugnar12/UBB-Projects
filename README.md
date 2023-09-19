@@ -55,5 +55,10 @@ All the university work I have done, including homework and personal work.
           Dynamical Systems:seedling:
         </a>
       </li>
+      <li>
+        <a href="https://github.com/Bugnar12/OOP">
+          Object-Oriented Programming 💖
+        </a>
+      </li>
     </ul>
   </ul>
