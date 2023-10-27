@@ -62,3 +62,25 @@ All the university work I have done, including homework and personal work.
       </li>
     </ul>
   </ul>
+
+<ul>
+  <li>
+    📁 Semester 3
+    <ul>
+      <li>
+        <a href="https://github.com/Bugnar12/PLF">
+          Logic and Functional Programming:dvd:
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/MAP">
+          Advanced Programming Methods:santa:
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/Databases">
+          Databases:clipboard:
+      </li>
+  </li>
+</ul>  
+
+
