@@ -79,6 +79,12 @@ All the university work I have done, including homework and personal work.
       <li>
         <a href="https://github.com/Bugnar12/Databases">
           Databases:clipboard:
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/CompNet">
+          Computer Networks📤
+        </a>
       </li>
   </li>
 </ul>  
