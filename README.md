@@ -86,6 +86,10 @@ All the university work I have done, including homework and personal work.
           Computer Networks📤
         </a>
       </li>
+      <li>
+        <a href="https://github.com/Bugnar12/PS">
+          Probabilities and Statistics :bar_chart:
+      </li>
   </li>
 </ul>  
 
