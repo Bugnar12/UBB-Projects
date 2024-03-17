@@ -97,9 +97,9 @@ All the university work I have done, including homework and personal work.
 </ul>  
   </li>      
 
-<ul>
+
   <li>
-    Semester 4 📁
+    📁 Semester 4 
     <ul>
       <li>
         <a href="https://github.com/Bugnar12/WP">
