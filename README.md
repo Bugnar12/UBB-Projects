@@ -76,6 +76,7 @@ All the university work I have done, including homework and personal work.
       <li>
         <a href="https://github.com/Bugnar12/MAP">
           Advanced Programming Methods :santa:
+        </a>
       </li>
       <li>
         <a href="https://github.com/Bugnar12/Databases">
@@ -90,9 +91,11 @@ All the university work I have done, including homework and personal work.
       <li>
         <a href="https://github.com/Bugnar12/PS">
           Probabilities and Statistics :bar_chart:
+            </a>
       </li>
   </li>
 </ul>  
+  </li>      
 
 <ul>
   <li>
@@ -123,5 +126,6 @@ All the university work I have done, including homework and personal work.
             Databases Management Systems
           </a>
       </li>
-  </li>
+    </ul>
 </ul>
+
