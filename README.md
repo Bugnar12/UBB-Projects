@@ -28,6 +28,7 @@ All the university work I have done, including homework and personal work.
   </ul>
   </li>
 </ul>
+
 <ul>
     <li>
       :file_folder: Semester 2
@@ -93,4 +94,34 @@ All the university work I have done, including homework and personal work.
   </li>
 </ul>  
 
-
+<ul>
+  <li>
+    Semester 4 📁
+    <ul>
+      <li>
+        <a href="https://github.com/Bugnar12/WP">
+          Web Programming
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/ISS">
+          Systems for Design and Implementation
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/SE">
+          Software Engineering
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Bugnar12/AI">
+          Artificial Intelligence
+        </a>
+      </li>
+      <li>
+          <a href="https://github.com/Bugnar12/DBMS">
+            Databases Management Systems
+          </a>
+      </li>
+  </li>
+</ul>
