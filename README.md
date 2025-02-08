@@ -127,5 +127,34 @@ All the university work I have done, including homework and personal work.
           </a>
       </li>
     </ul>
+  </li>
+  <li>
+    📁 Semester 5 
+    <ul>
+      <li>
+        <a href="">
+          Mobile applications
+      </li>
+      <li>
+        <a href="">
+          Parallel and distribued programming
+      </li>        
+      <li>
+        <a href="">
+          Formal Languages and Compiler Techniques
+      </li>
+      <li>
+        <a href="">
+          Virtual Reality
+      </li>          
+      <li>
+        <a href="">
+          Cryptography
+      </li>          
+      <li>
+        <a href="">
+          Innovative products design
+      </li>
+  </li>
 </ul>
 
